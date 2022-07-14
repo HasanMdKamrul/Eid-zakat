@@ -1,0 +1,152 @@
+.header {
+  padding: 10%;
+  background-image: url(../images/donation10.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header h1 {
+  color: #ffffff;
+}
+
+.header p {
+  color: #ffffff;
+}
+.button {
+  padding: 16px, 12px;
+  width: 160px;
+  height: 56px;
+  color: #ffffff;
+  background-color: #ef233c;
+  border-radius: 5px;
+}
+
+a {
+  width: 119px;
+  height: 24px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.text {
+  padding: 3%;
+}
+
+.text h1 {
+  color: #121212;
+  font-size: 45px;
+  line-height: 54.46px;
+  font-weight: 700;
+}
+
+.text p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  color: #707070;
+  text-align: justify;
+}
+
+.video {
+  padding: 5%;
+}
+
+#explore {
+  width: 128px;
+  height: 24px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.survive .image img {
+  width: 456px;
+  height: 477px;
+}
+
+.container .image {
+  padding: 5%;
+}
+
+.text-container {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.text-container h1 {
+  font-weight: 700;
+  font-size: 45px;
+  text-align: center;
+  color: #121212;
+}
+
+.text-container p {
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #707070;
+}
+
+.card-body {
+  display: flex;
+  background-color: #fef4f5;
+  border-radius: 10px;
+  width: 461px;
+  height: 225px;
+}
+
+.card-text p {
+  width: 293px;
+  height: 112px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #707070;
+}
+.card-body .icon img {
+  width: 56px;
+  height: 56px;
+  padding: 30px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
+
+#card-container-two {
+  margin-top: 20px;
+}
+
+.picture-container .picture-content img {
+  width: 364px;
+  height: 391px;
+  border-radius: 10px;
+}
+
+.picture-content {
+  display: flex;
+  gap: 2%;
+  justify-content: center;
+  padding: 5%;
+}
